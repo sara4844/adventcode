@@ -1,0 +1,13 @@
+C:\sara.repo\GitHub\adventcode\bin\Debug\netcoreapp3.1\adventcode.exe
+C:\sara.repo\GitHub\adventcode\bin\Debug\netcoreapp3.1\adventcode.deps.json
+C:\sara.repo\GitHub\adventcode\bin\Debug\netcoreapp3.1\adventcode.runtimeconfig.json
+C:\sara.repo\GitHub\adventcode\bin\Debug\netcoreapp3.1\adventcode.runtimeconfig.dev.json
+C:\sara.repo\GitHub\adventcode\bin\Debug\netcoreapp3.1\adventcode.dll
+C:\sara.repo\GitHub\adventcode\bin\Debug\netcoreapp3.1\adventcode.pdb
+C:\sara.repo\GitHub\adventcode\obj\Debug\netcoreapp3.1\adventcode.csprojAssemblyReference.cache
+C:\sara.repo\GitHub\adventcode\obj\Debug\netcoreapp3.1\adventcode.AssemblyInfoInputs.cache
+C:\sara.repo\GitHub\adventcode\obj\Debug\netcoreapp3.1\adventcode.AssemblyInfo.cs
+C:\sara.repo\GitHub\adventcode\obj\Debug\netcoreapp3.1\adventcode.csproj.CoreCompileInputs.cache
+C:\sara.repo\GitHub\adventcode\obj\Debug\netcoreapp3.1\adventcode.dll
+C:\sara.repo\GitHub\adventcode\obj\Debug\netcoreapp3.1\adventcode.pdb
+C:\sara.repo\GitHub\adventcode\obj\Debug\netcoreapp3.1\adventcode.genruntimeconfig.cache
